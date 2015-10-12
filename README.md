@@ -1,12 +1,12 @@
 # technical_prep
 Technical interview solutions
 
-### Compiling & Executing
+### Compiling & Executing in Linux
   Java - javac file_name.java <br/>
-         java class_file_file
+  To execute - java class_file_file
   
   C++ - g++ file_name.cpp -o file_name<br/>
-        ./file_name
+  To execute - ./file_name
   
 
   
