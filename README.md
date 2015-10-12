@@ -1,2 +1,2 @@
 # technical_prep
-Technical interview preparation solutions
+Technical interview solutions
