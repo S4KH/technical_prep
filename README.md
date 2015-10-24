@@ -1,5 +1,5 @@
 # technical_prep
-Technical interview solutions
+Technical interview preparation
 
 ### Compiling & Executing in Linux
   Java(remove the package line) - javac file_name.java <br/>
